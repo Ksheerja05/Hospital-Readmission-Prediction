@@ -3,7 +3,7 @@
 ## Overview
 This project is based on predicting whether a patient will be re-admitted to the hospital based on their medical history.
 
-File Structure
+## File Structure
 1. hspt_readmission.ipynb: Main Python script for sentiment analysis, data preprocessing, model training, and visualization.
 2. hospital_readmissions.csv: Sample dataset containing patients' medical history. The data was taken from Kaggle- https://www.kaggle.com/datasets/dubradave/hospital-readmissions/data
 3. README.md: Project README file.
